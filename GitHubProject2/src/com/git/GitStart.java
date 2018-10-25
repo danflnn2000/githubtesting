@@ -11,7 +11,6 @@ public class GitStart {
 			System.out.println(mylist[i]);
 		}
 		//This is also a simple comment
-		//another comment
 	}
 
 }
