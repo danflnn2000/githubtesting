@@ -11,12 +11,11 @@ public class GitStart {
 			System.out.println(mylist[i]);
 		}
 		//This is also a simple comment
-<<<<<<< HEAD
+
 		//This is my workspace comment 2
-=======
+
 		//This is my git comment
 		//This is my git comment 2
->>>>>>> branch 'master' of https://github.com/danflnn2000/githubtesting.git
 	}
 
 }
