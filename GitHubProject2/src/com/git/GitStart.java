@@ -12,6 +12,7 @@ public class GitStart {
 		}
 		//This is also a simple comment
 		//This is my git comment
+		//This is my git comment 2
 	}
 
 }
