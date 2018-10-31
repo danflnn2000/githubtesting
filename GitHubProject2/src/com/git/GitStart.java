@@ -26,11 +26,18 @@ public class GitStart {
 		//This is my workspace comment 6
 		
 		//This is my workspace comment 7
+<<<<<<< Upstream, based on branch 'Dans_New_Branch' of https://github.com/danflnn2000/githubtesting.git
 
+=======
+		
+>>>>>>> fd7c533 dfadf
 		//This is my workspace comment 10
+<<<<<<< Upstream, based on branch 'Dans_New_Branch' of https://github.com/danflnn2000/githubtesting.git
 		
 		//This is my workspace comment 11
 
+=======
+>>>>>>> fd7c533 dfadf
 	}
 
 }
