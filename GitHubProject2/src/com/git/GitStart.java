@@ -24,6 +24,8 @@ public class GitStart {
 		//This is my workspace comment 5
 		
 		//This is my workspace comment 6
+		
+		//This is my workspace comment 7
 	}
 
 }
