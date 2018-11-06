@@ -1,0 +1,21 @@
+This is my first test
+
+this is an edit
+
+this is an edit on the server
+
+This is another edit
+
+this is another edit on the server
+
+this is another loca1 edit
+
+this is the last edit on the server
+
+this is the last local edit
+
+this is now really the last edit on the server
+
+this is now really the last local edit
+
+Oh ya... I'm out of gitjjjyyy
