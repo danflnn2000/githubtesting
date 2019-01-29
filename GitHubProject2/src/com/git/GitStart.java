@@ -20,17 +20,6 @@ public class GitStart {
 		int period = 1;
 		executor.scheduleAtFixedRate(task, initialDelay, period, TimeUnit.SECONDS);
 		
-		//this is a test
-
-
-		//This is my git comment
-		//This is my git comment 2
-		
-		//This is my workspace comment 3
-		
-		//This is my workspace comment 4
-		
-		//This is my workspace comment 5
 
 	}
 
