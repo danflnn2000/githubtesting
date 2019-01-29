@@ -10,28 +10,14 @@ public class GitStart {
 		for (int i = 0; i < mylist.length; i++) {
 			System.out.println(mylist[i]);
 		}
-		//This is also a simple comment
 
-		//This is my workspace comment 2
+		ScheduledExecutorService executor = Executors.newScheduledThreadPool(1);
 
-		//This is my git comment
-		//This is my git comment 2
-		
-		//This is my workspace comment 3
-		
-		//This is my workspace comment 4
-		
-		//This is my workspace comment 5
-		
-		//This is my workspace comment 6
-		
-		//This is my workspace comment 7
+		Runnable task = () -> System.out.println("Scheduling: " + System.nanoTime());
 
-		//This is my workspace comment 10
-		
-		//This is my workspace comment 11
-
-		//This is my workspace comment 12
+		int initialDelay = 0;
+		int period = 1;
+		executor.scheduleAtFixedRate(task, initialDelay, period, TimeUnit.SECONDS);
 
 	}
 
