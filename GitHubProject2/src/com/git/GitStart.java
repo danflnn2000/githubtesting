@@ -11,6 +11,8 @@ public class GitStart {
 		for (int i = 0; i < mylist.length; i++) {
 			System.out.println(mylist[i]);
 		}
+		
+		//this is a test
 	}
 
 }
