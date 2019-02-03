@@ -11,18 +11,6 @@ public class GitStart {
 		for (int i = 0; i < mylist.length; i++) {
 			System.out.println(mylist[i]);
 		}
-
-		ScheduledExecutorService executor = Executors.newScheduledThreadPool(1);
-
-		Runnable task = () -> System.out.println("Scheduling: " + System.nanoTime());
-
-		int initialDelay = 0;
-		int period = 1;
-		executor.scheduleAtFixedRate(task, initialDelay, period, TimeUnit.SECONDS);
-		
-		//ok there is an edit
-		
-		//ok now there is a second edit
 	}
 
 }
