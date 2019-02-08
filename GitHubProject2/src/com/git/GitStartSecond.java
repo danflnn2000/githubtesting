@@ -1,7 +1,6 @@
 package com.git;
 
 public class GitStartSecond{
-<<<<<<< Updated upstream
 
 	// this is my test from git Hub
 	// this is my second test from git hub
@@ -12,5 +11,7 @@ public class GitStartSecond{
 	for (i = 0; i<10; i++) {
 
 	}
+	
+	// this is my second commit
 }
 
