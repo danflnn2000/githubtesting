@@ -11,7 +11,17 @@ public class GitStartSecond{
 
 	}
 	
-	myNumber = 10;
+	myNumber = 20;
+	for (i = 0; i<10; i++) {
+
+	}
+	
+	myNumber = 30;
+	for (i = 0; i<10; i++) {
+
+	}
+	
+	myNumber = 40;
 	for (i = 0; i<10; i++) {
 
 	}
