@@ -1,6 +1,7 @@
 package com.git;
 
 public class GitStartSecond{
+
 	// this is my test from git Hub
 	// this is my second test from git hub
 	// This is my first comment
@@ -11,17 +12,7 @@ public class GitStartSecond{
 
 	}
 	
-	myNumber = 20;
-	for (i = 0; i<10; i++) {
-
-	}
-	
-	myNumber = 30;
-	for (i = 0; i<10; i++) {
-
-	}
-	
-	myNumber = 40;
+	myNumber = 10;
 	for (i = 0; i<10; i++) {
 
 	}
