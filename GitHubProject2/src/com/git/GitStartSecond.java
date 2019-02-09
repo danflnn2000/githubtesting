@@ -18,5 +18,7 @@ public class GitStartSecond{
 	}
 
 	// this is my second commit
+	
+	// this is my change 
 }
 
