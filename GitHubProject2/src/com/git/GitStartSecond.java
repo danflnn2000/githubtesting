@@ -18,7 +18,9 @@ public class GitStartSecond{
 	}
 
 	// this is my second commit
+
+	// this is my change
 	
-	// this is my change 
+	//test of assume unchanged... this will not be the file flagged
 }
 
