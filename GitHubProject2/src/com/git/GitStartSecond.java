@@ -22,5 +22,9 @@ public class GitStartSecond{
 	// this is my change
 	
 	//test of assume unchanged... this will not be the file flagged
+	
+	
+	//stash changes
+	//stash changes
 }
 
