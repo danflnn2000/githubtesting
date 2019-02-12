@@ -12,18 +12,6 @@ public class GitStart {
 			System.out.println(mylist[i]);
 		}
 		
-		//this is a test
-		
-		//Edit from GitHub
-		
-		//This is a stash change
-		
-		//stash changes
-		
-		//stash chagnes
-		
-		//this is a chagne
-		
 		
 	}
 
