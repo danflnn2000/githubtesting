@@ -12,7 +12,7 @@ public class GitStart {
 			System.out.println(mylist[i]);
 		}
 		
-		//this is a test
+		
 	}
 
 }
