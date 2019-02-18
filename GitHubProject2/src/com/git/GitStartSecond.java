@@ -23,5 +23,6 @@ public class GitStartSecond{
 	// making a change 4
 	// making a change 5
 	// making a change 6
+	// making a change 7
 }
 
