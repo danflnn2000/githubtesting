@@ -12,6 +12,7 @@ public class GitStart {
 			System.out.println(mylist[i]);
 		}
 		
+		System.out.println("Julius Ceasar");
 		//this is a test
 		
 		//Edit from GitHub
