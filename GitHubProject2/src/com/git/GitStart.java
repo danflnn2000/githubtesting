@@ -11,7 +11,7 @@ public class GitStart {
 			System.out.println(mylist[i]);
 		}
 		
-		System.out.println("Denise Mastrovito");
+		System.out.println("Julius Ceasar");
 		//This is also a simple comment
 
 		//This is my workspace comment 2
