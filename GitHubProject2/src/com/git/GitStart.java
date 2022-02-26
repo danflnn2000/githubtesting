@@ -16,6 +16,8 @@ public class GitStart {
 		//this is a test
 		
 		//Edit from GitHub
+		
+		//fetch test.  Do I need to merge?
 	}
 
 }
